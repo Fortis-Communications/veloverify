@@ -1,0 +1,26 @@
+{
+  "name": "veloverify",
+  "version": "1.0.0",
+  "description": "Check phone numbers with HLR and number portability lookups from your VeloVerify account.",
+  "author": {
+    "name": "Fortis Communications",
+    "url": "https://verifyapi.veloconnect.me"
+  },
+  "homepage": "https://verifyapi.veloconnect.me",
+  "license": "MIT",
+  "mcpServers": "./.mcp.json",
+  "interface": {
+    "displayName": "VeloVerify",
+    "shortDescription": "Check phone numbers",
+    "longDescription": "VeloVerify checks phone numbers from your VeloVerify account. See whether a number is live, which network serves it and whether it was ported, for one number or a list. You can also see your balance, usage and prices. Paid lookups ask for confirmation and are off until you allow them when you connect.",
+    "developerName": "Fortis Communications",
+    "category": "Productivity",
+    "websiteURL": "https://verifyapi.veloconnect.me",
+    "supportURL": "https://verifyapi.veloconnect.me/support",
+    "privacyPolicyURL": "https://verifyapi.veloconnect.me/privacy",
+    "termsOfServiceURL": "https://verifyapi.veloconnect.me/terms",
+    "composerIcon": "./assets/composer-icon.png",
+    "logo": "./assets/icon.png"
+  },
+  "repository": "https://github.com/Fortis-Communications/veloverify"
+}

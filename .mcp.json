@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "veloverify": {
+      "type": "http",
+      "url": "https://verify.veloconnect.me/mcp"
+    }
+  }
+}

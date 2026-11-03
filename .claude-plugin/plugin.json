@@ -1,0 +1,17 @@
+{
+  "name": "veloverify",
+  "version": "1.0.0",
+  "description": "Check phone numbers with HLR and number portability lookups from your VeloVerify account.",
+  "author": {
+    "name": "Fortis Communications",
+    "url": "https://verifyapi.veloconnect.me"
+  },
+  "homepage": "https://verifyapi.veloconnect.me",
+  "license": "MIT",
+  "keywords": [
+    "hlr",
+    "mnp",
+    "phone-number-validation"
+  ],
+  "repository": "https://github.com/Fortis-Communications/veloverify"
+}
